@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [CodeWave](https://github.com/netease-lcap)
+- 🌱 I’m currently learning Rust
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YufJi&show_icons=true&theme=transparent)
