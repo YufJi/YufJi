@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [CodeWave](https://github.com/netease-lcap)
-- 🌱 I’m currently learning Rust
+
+- 💼 I'm currently working for [CodeWave](https://github.com/netease-lcap)
+- 🌱 I'm currently learning Rust
+- ❤️ Basketball
+- 🎮 NBA2K, League of Legends(Iron level)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YufJi&show_icons=true&theme=transparent)
