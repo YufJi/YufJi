@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 💼 I'm currently working for [CodeWave](https://github.com/netease-lcap)
 - 🌱 I'm currently learning Rust
 - ❤️ Basketball
-- 🎮 NBA2K, League of Legends(Iron level)
+- 🎮 NBA2K, League of Legends
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YufJi&show_icons=true&theme=transparent)
